@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0130-surrounded-regions](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -76,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
