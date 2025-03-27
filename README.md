@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String
 |  |
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
