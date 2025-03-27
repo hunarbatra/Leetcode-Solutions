@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -171,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
