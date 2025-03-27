@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
