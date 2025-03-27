@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
