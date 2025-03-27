@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -139,9 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
