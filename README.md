@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## String
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0744-network-delay-time) |
