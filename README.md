@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
