@@ -5,17 +5,16 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        # count = {}
+        map = {}
+        for i in s:
+            map[i] = map.get(i, 0) + 1
 
-        # for ch in s:
-            # count[ch] = count.get(ch, 0) + 1
-
-        count = Counter(s)
-        for ch in t:
-            # count[ch] = count.get(ch, 0) - 1
-            count[ch] = count[ch] - 1
-
-            if count[ch] < 0:
+        for i in t:
+            map[i] = map.get(i, 0) - 1
+            if map[i] < 0:
                 return False
 
         return True
+
+
+            
