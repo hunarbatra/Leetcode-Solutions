@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0747-min-cost-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0705-design-hashset](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Union Find
 |  |
@@ -225,8 +228,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
