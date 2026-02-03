@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0078-subsets) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0127-word-ladder) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 ## Data Stream
