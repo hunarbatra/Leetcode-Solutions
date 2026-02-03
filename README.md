@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0133-clone-graph) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0127-word-ladder) |
@@ -200,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
