@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0518-coin-change-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
