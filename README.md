@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
