@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## String
 |  |
 | ------- |
@@ -190,15 +191,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0139-word-break) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Trie
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0078-subsets) |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Sorting
 |  |
 | ------- |
