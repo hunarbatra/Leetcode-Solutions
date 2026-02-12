@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1834-single-threaded-cpu](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0744-network-delay-time](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1834-single-threaded-cpu](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Shortest Path
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1834-single-threaded-cpu](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 ## Two Pointers
 |  |
 | ------- |
