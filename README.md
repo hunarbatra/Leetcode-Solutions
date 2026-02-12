@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Memoization
