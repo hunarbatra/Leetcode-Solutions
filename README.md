@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0705-design-hashset](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
