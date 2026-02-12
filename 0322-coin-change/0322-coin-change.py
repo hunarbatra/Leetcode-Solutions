@@ -1,6 +1,6 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        dp = [float('inf')] * (amount+1)
+        dp = [float("inf")] * (amount + 1)
         dp[0] = 0 # base case
 
         for coin in coins:
@@ -8,4 +8,4 @@ class Solution:
                 if coin <= i:
                     dp[i] = min(dp[i], dp[i - coin] + 1)
 
-        return dp[amount] if dp[amount] != float('inf') else -1
+        return dp[amount] if dp[amount] != float("inf") else -1
