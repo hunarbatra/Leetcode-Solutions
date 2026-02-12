@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0155-min-stack) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hunarbatra/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
